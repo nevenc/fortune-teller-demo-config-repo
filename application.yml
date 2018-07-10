@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Be back in a minute. Try again later.
+  fallbackFortune: Be back in a minute. Off to Stockholm!
 
